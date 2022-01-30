@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tigre Branco @ Blog",
+    "description": "",
+    "home_page_url": "https://tigrebranco.org",
+    "feed_url": "https://tigrebranco.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Guto Carvalho"
+    },
+    "items": [
+        {
+            "id": "https://tigrebranco.org/so-vem-treinar.html",
+            "url": "https://tigrebranco.org/so-vem-treinar.html",
+            "title": "Só vem treinar!",
+            "summary": "A temporada 2022 já comecou, esperamos você, só vem!",
+            "content_html": "<p>A temporada 2022 já comecou, esperamos você, só vem!</p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-30T14:53:29-03:00",
+            "date_modified": "2022-01-30T14:53:29-03:00"
+        }
+    ]
+}
