@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tigre Branco @ Blog</title>
-    <link href="https://tigrebranco.org/feed.xml" rel="self" />
-    <link href="https://tigrebranco.org" />
+    <link href="https://blog.tigrebranco.org/feed.xml" rel="self" />
+    <link href="https://blog.tigrebranco.org" />
     <updated>2022-01-30T14:53:29-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
-    <id>https://tigrebranco.org</id>
+    <id>https://blog.tigrebranco.org</id>
 
     <entry>
         <title>Só vem treinar!</title>
         <author>
             <name>Guto Carvalho</name>
         </author>
-        <link href="https://tigrebranco.org/so-vem-treinar.html"/>
-        <id>https://tigrebranco.org/so-vem-treinar.html</id>
+        <link href="https://blog.tigrebranco.org/so-vem-treinar.html"/>
+        <id>https://blog.tigrebranco.org/so-vem-treinar.html</id>
 
         <updated>2022-01-30T14:53:29-03:00</updated>
             <summary>
